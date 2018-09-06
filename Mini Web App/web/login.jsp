@@ -19,5 +19,7 @@
         password: <input type="password" name="password" width="10" />
         <input type="submit" value="Login" />
     </form>
+
+    <h2 style="color:red;">${errorMessage}<h2>
 </body>
 </html>
